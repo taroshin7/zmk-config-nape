@@ -116,7 +116,7 @@
 
         orientation45_layer {
             bindings = <
-&mkp MB3  &mkp MB1  &mkp MB2  &mo 8  &mo 9  &mo 11
+&mkp MB3  &mkp LCLK  &mkp RCLK  &mo 8  &mo 9  &mo 11
             >;
         };
 
